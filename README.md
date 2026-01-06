@@ -7,11 +7,11 @@ I’m driven by problem-solving, innovation, and continuous growth, and I’m pa
 
 ## 🛠️ Tools & Technologies
 
-Languages: HTML/CSS, JavaScript, Python, C++, Swift
+Languages: HTML/CSS, JavaScript, Python, C++
 
 Frameworks & Libraries: React, Pygame
 
-Databases / Cloud: Firebase (Auth, Firestore, Hosting, etc.)
+Databases / Cloud: Firebase (Auth, Hosting, etc.)
 
 ## 📊 GitHub Stats & Badges
 
