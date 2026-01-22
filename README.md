@@ -16,8 +16,8 @@ Databases / Cloud: Firebase (Auth, Hosting, etc.)
 ## 📊 GitHub Stats & Badges
 
 <p align="left">
-  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=rishibadal726&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=rishibadal726&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rishibadal726&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishibadal726&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ## 📬 Contact Me
