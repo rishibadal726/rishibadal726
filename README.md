@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm Rishi
 ## 🚀 Computer Science @ UT Dallas
 
-I'm a Computer Science freshman at UT Dallas with experience in full-stack and mobile development. I’ve worked with HTML/CSS, JavaScript, React, Python, C++, and Swift, and I’m continually learning new programming languages and frameworks/libraries to expand my skill set.
+I'm a Computer Science student at UT Dallas with experience in full-stack and mobile development. I’ve worked with HTML/CSS, JavaScript, React, Python, C++, and Swift, and I’m continually learning new programming languages and frameworks/libraries to expand my skill set.
 
 I’m driven by problem-solving, innovation, and continuous growth, and I’m passionate about creating software that makes an impact.
 
