@@ -49,4 +49,4 @@ I enjoy solving real-world problems, learning new technologies, and building sof
 ## 📬 Contact Me
 
 LinkedIn:
-https://www.linkedin.com/in/rishi-badal-a632b62bb
+https://www.linkedin.com/in/rishi-badal
