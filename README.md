@@ -1,17 +1,19 @@
 ## 👋 Hi there! I'm Rishi
 ## 🚀 Computer Science @ UT Dallas
 
-I'm a Computer Science student at UT Dallas with experience in full-stack and mobile development. I’ve worked with HTML/CSS, JavaScript, React, Python, C++, and Java, and I’m continually learning new programming languages and frameworks/libraries to expand my skill set.
+I'm a Computer Science student at UT Dallas with a strong interest in software engineering, full-stack development, and artificial intelligence. I have experience building web applications, contributing to open-source projects, and exploring machine learning through hands-on projects.
 
-I’m driven by problem-solving, innovation, and continuous growth, and I’m passionate about creating software that makes an impact.
+I enjoy solving real-world problems, learning new technologies, and building software that is both useful and impactful.
 
 ## 🛠️ Tools & Technologies
 
-Languages: HTML/CSS, JavaScript, Python, C++
+**Languages:** Python, TypeScript, JavaScript, Java, C++, HTML/CSS, SQL
 
-Frameworks & Libraries: React, Pygame
+**Frameworks & Libraries:** React, Next.js, Spring Boot, Tailwind CSS, tRPC, PyTorch, OpenAI Gymnasium
 
-Databases / Cloud: Firebase (Auth, Hosting, etc.)
+**Databases & Platforms:** PostgreSQL, Supabase, Firebase, Node.js
+
+**Developer Tools & APIs:** Git, GitHub, Docker, Gemini API, Better Auth
 
 ## 📊 GitHub Stats & Badges
 
